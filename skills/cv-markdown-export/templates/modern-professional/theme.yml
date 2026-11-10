@@ -1,0 +1,6 @@
+name: modern-professional
+description: Refined general-professional design with an optional profile photo.
+recommended_for: Customer service, sales, hospitality, and general professional roles.
+supports_photo: true
+default_accent: bold-black
+layout: single-column

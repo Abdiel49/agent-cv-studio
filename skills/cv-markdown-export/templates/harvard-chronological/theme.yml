@@ -1,0 +1,6 @@
+name: harvard-chronological
+description: Conservative, single-column, chronology-first design for formal and academic applications.
+recommended_for: Academic, corporate, management, finance, and formal applications.
+supports_photo: false
+default_accent: bold-black
+layout: single-column

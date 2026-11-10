@@ -1,0 +1,8 @@
+# Replace John Doe and review each setting before exporting.
+theme: ats-standard
+accent: bold-black
+format: both
+output_name: John_Doe_CV
+output_dir: output
+include_photo: false
+# photo: assets/photos/john-doe.jpg

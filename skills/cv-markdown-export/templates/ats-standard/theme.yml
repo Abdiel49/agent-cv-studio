@@ -1,0 +1,6 @@
+name: ats-standard
+description: Minimal, machine-readable design for applicant-tracking systems and online job portals.
+recommended_for: Online applications, international applications, and ATS screening.
+supports_photo: false
+default_accent: bold-black
+layout: single-column
